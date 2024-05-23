@@ -1,0 +1,51 @@
+{
+  "name": "rag-anything",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.422.0",
+    "@clerk/nextjs": "^5.0.12",
+    "@langchain/community": "^0.2.0",
+    "@langchain/core": "^0.2.0",
+    "@langchain/openai": "^0.0.33",
+    "@langchain/weaviate": "^0.0.3",
+    "@mantine/code-highlight": "^7.9.2",
+    "@mantine/core": "^7.9.2",
+    "@mantine/dropzone": "^7.9.2",
+    "@mantine/form": "^7.9.2",
+    "@mantine/hooks": "^7.9.2",
+    "@mantine/modals": "^7.9.2",
+    "@mantine/notifications": "^7.9.2",
+    "@tabler/icons-react": "^3.4.0",
+    "@tanstack/react-query": "^5.37.1",
+    "axios": "^1.7.1",
+    "byte-size": "^8.1.1",
+    "chromadb-default-embed": "^2.13.2",
+    "eventemitter3": "^5.0.1",
+    "langchain": "^0.2.0",
+    "mongoose": "^8.4.0",
+    "next": "14.2.3",
+    "pdf-parse": "^1.1.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/byte-size": "^8.1.2",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8.4.38",
+    "postcss-preset-mantine": "^1.15.0",
+    "postcss-simple-vars": "^7.0.1",
+    "typescript": "^5"
+  }
+}
