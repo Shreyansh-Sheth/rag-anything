@@ -1,12 +1,6 @@
 # RAG with scalable infrastructure to accommodate 10000 of users simultaneously
 
 
-## Screenshot of the application
-
-![Platformimage](/images/platform1.png)
-
-![PlatformImage2](/images/platform2.png)
-
 ## Basic Architecture of the system:
 
 ![Architecture](/images/Architecture.png)
@@ -14,6 +8,14 @@
 ## RAG QA process
 
 ![QA](/images/QA.png)
+
+
+
+## Screenshot of the application
+
+![Platformimage](/images/platform1.png)
+
+![PlatformImage2](/images/platform2.png)
 
 
 Best Features:
