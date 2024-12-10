@@ -1,4 +1,4 @@
-# RAG with scalable infrastructure to accommodate 10000 of users simultaneously
+# Chat With Documents Using AI
 
 
 ## Basic Architecture of the system:
